@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jescalera07
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on Projects to advance my programming knowledge
+- 💞️ I’m looking to collaborate on Projects to advance my programming ability
 - 📫 How to reach me joandry.escalera@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ran the NYC Marathon in 2018.
